@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mitali Avhad
-- 👀 I’m passionate in omics research, coding in Python, MATLAB and data visualization!!
+- 👀 I’m passionate in coding in Python, SQL, and data visualization!!
 - 🌱 Currently, I am in the journey of learning Machine Learning and solving biological big data problems using code, algorithms, and tools.
-- 💞️ I’m looking to collaborate on genomic data manipulation projects. 
+- 💞️ I’m looking to collaborate on data analysis and data science projects. 
 - 📫 You can get in touch with me at mitali4business@gmail.com
       I would love to interact with you!!
    
